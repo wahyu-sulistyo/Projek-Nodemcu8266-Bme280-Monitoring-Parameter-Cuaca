@@ -28,4 +28,8 @@ B.Kemudian susun komponen tersebut dengan acuan
 
 -buka browser da ketikan ip adrres tadi
 
--selamat mencoba
+-selamat mencoba.
+
+- lebih lengkapnya kunjungi link berikut (https://how2electronics.com/esp8266-bme280-based-mini-weather-station/)
+
+
