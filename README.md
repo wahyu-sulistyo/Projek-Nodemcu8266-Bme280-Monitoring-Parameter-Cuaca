@@ -1,14 +1,14 @@
 # Projek-Nodemcu8266-Bme280-Monitoring-Parameter-Cuaca
-Projek Ini Merupakan Projek berbasis Internet of things yang menggunakan mikrokontroller nodemcu esp8266 dengan menggunakan sensor Bme280.
+Projek ini merupakan proyek berbasis Internet of things yang menggunakan mikrokontroller nodemcu esp8266 dengan menggunakan sensor Bme280.
 
-A.pada projek ini alat dan bahan yang diperlukan adalah sebagai berikut
+A. Pada projek ini alat dan bahan yang diperlukan adalah sebagai berikut
 
-1.Nodemcu esp8266 amica/lolin
-2.Sensor bme280
-3.kabel jumper female to female
-4.breadboard bila diperlukan
+1. Nodemcu esp8266 amica/lolin
+2. Sensor bme280
+3. Kabel jumper female to female
+4. Breadboard bila diperlukan
 
-B.Kemudian susun komponen tersebut dengan acuan
+B. Kemudian susun komponen tersebut dengan acuan
 1. vcc ke vin nodemcu
 2. gnd ke gnd nodemcu
 3. scl ke d1 nodemcu
