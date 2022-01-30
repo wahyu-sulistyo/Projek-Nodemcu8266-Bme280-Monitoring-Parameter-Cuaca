@@ -8,10 +8,10 @@ A. Pada projek ini alat dan bahan yang diperlukan adalah sebagai berikut
 4. Breadboard bila diperlukan
 
 B. Kemudian susun komponen tersebut dengan acuan
-1. vcc ke vin nodemcu
-2. gnd ke gnd nodemcu
-3. scl ke d1 nodemcu
-4. sda ke d2 nodemcu
+1. VCC ke VIN Nodemcu
+2. GND ke GND Nodemcu
+3. SCL ke D1 Nodemcu
+4. SDA ke D2 Nodemcu
 
 C. Langkah-langkah Kerja
 - Hubungkan nodemcu ke laptop 
